@@ -1,1 +1,1 @@
-URL = "http://socialsensor.west.uni-koblenz.de:8080"
+URL = "http://localhost:8080"
